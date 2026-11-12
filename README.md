@@ -1,2 +1,3 @@
-# mpi-projects
-MPI programming projects from my graduate course in high performance computing at Georgia Tech (CSE 6220). 
+- PA1: Monte Carlo algorithm to estimate pi
+- PA2: Implementation of MPI communication primitives from scratch (Scatter, AllGather, AllReduce, Hypercubic Alltoall, Arbitrary Alltoall)
+- PA3: Implementation of sparse general matrix-matrix multiplication (SpGEMM) from scratch
